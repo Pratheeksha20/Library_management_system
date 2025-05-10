@@ -21,3 +21,6 @@ All book data is stored in an in-memory `ArrayList` during runtime (no database 
 2. Save the source file as `Library_management.java`.
 3. Compile
 4. Run
+
+
+Author: Pratheeksha C
